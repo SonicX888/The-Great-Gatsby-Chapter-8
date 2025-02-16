@@ -1,4 +1,4 @@
-# The-Great-Gatsby-Chapter-8
+# The-Great-Gatsby-Chapter-8-Game
 School project made in 2023 when I was 15. It was first made on Scratch and then turned into different versions
 
 --------------------------------------------------------------------------------------
